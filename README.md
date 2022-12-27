@@ -9,7 +9,7 @@ I am a full stack developer with a background in biomedical engineering and Educ
 * 🌍  I'm based in London, UK
 * 🖥️  See my portfolio at [My Portfolio](http://bespoke-panda-2119ff.netlify.app/)
 * ✉️  You can contact me at [sonnyburniston@yahoo.co.uk](mailto:sonnyburniston@yahoo.co.uk)
-* 🚀  I'm currently working on [Smart brain](http://https://sonny-smart-brain.herokuapp.com/)
+* 🚀  I'm currently working on [Smart brain](https://sonny-smart-brain.herokuapp.com/)
 * 🧠  I'm learning Advanced Javascript Concepts
 * ⚡  My secret obsession is anything AI related... oh, and also Windsurfing
 
