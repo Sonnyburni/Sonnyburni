@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-I am a full stack developer with a background in biomedical engineering and Education technology. I am passionate about working on projects which have the potential to provide massive impact. I am constantly striving to learn new things and I am excited to continue my journey into the world of software.
+I am a full-stack developer with a background in biomedical engineering and Education technology. 
+I have a strong foundation in both front-end and back-end technologies. I have experience building web applications from start to finish, including the design, development, and deployment phases. I am skilled in a variety of programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, and Express. I am also well-versed in database design and management using technologies such as MySQL.
+I am a detail-oriented and proactive problem solver, with a passion for continuous learning and staying up-to-date on the latest developments in the field. In my past roles, I have excelled at working in fast-paced and dynamic environments
+I am eager to leverage my skills and experience to make a meaningful contribution to a forward-thinking and innovative organization.
 
 * 🌍  I'm based in London, UK
 * 🖥️  See my portfolio at [My Portfolio](http://bespoke-panda-2119ff.netlify.app/)
