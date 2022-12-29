@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-I am a full stack developer with a background in biomedical engineering and Education technology. I am passionate about working on projects which have the potential to provide massive impact. I am constantly striving to learn new things and am exited to continue my journey into the world of software.
+I am a full stack developer with a background in biomedical engineering and Education technology. I am passionate about working on projects which have the potential to provide massive impact. I am constantly striving to learn new things and I am excited to continue my journey into the world of software.
 
 * 🌍  I'm based in London, UK
 * 🖥️  See my portfolio at [My Portfolio](http://bespoke-panda-2119ff.netlify.app/)
